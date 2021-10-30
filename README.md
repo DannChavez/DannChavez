@@ -1,7 +1,7 @@
 ### Hola a todos👋
 
 Estudiante de Ingeniería en software en la UAQ
-Manejo HTML, CSS, JavaScript
+<p>Manejo HTML, CSS, JavaScript</p>
 Y estoy aprendiendo a usar Python, C# y a usar GitHub... o al menos intentarlo ;)
 
 <!--
