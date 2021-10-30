@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola a todos👋
+
+Estudiante de Ingeniería en software en la UAQ
+Manejo HTML, CSS, JavaScript
+Y estoy aprendiendo a usar Python, C# y a usar GitHub... o al menos intentarlo ;)
 
 <!--
 **DannChavez/DannChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
