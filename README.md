@@ -1,4 +1,4 @@
-### Hola a todos👋
+<h1 style="background-color: 'ligthblue';">### Hola a todos👋</h1>
 
 Estudiante de Ingeniería en software en la UAQ
 <p>Manejo HTML, CSS, JavaScript</p>
