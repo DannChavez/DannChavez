@@ -1,4 +1,4 @@
-###<h1>Hola a todos👋</h1>
+<h1>Hola a todos👋</h1>
 
 Estudiante de Ingeniería en software en la UAQ
 <p>Manejo HTML, CSS, JavaScript</p>
