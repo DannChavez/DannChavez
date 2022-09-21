@@ -2,7 +2,7 @@
 
 Estudiante de Ingeniería en software en la UAQ
 <p>Manejo HTML, CSS, JavaScript</p>
-Y estoy aprendiendo a usar Python, C# y a usar GitHub... o al menos intentarlo ;)
+Y estoy aprendiendo a usar Python, C# y bases de datos
 
 <!--
 **DannChavez/DannChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
