@@ -1,9 +1,10 @@
-<h1>Hola a todos👋</h1>
+<h1>Se hace un poco de todo ⚡</h1>
 
 Estudiante de Ingeniería en software en la UAQ
-<p>Manejo HTML, CSS, JavaScript</p>
-Y estoy aprendiendo a usar Python, C# y bases de datos
+<p>Manejo HTML, CSS, JavaScript y python</p>
+Y empezando a enfocarme en bases de datos y diseño de software
 
+Siempre se busca hacer de todo un poco, uno nunca sabe de qué será el siguiente trabajo o las siguientes personas
 <!--
 **DannChavez/DannChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
